@@ -1,4 +1,4 @@
-<h1>Android App for Cayuse Technologies</h1>
+<h1>App for Cayuse Technologies</h1>
 <br>
 <p>The mobile app I was asked to make for Cayuse and The Confederated Tribes of the Umatilla.</p>
 
